@@ -54,7 +54,7 @@ public class Address
 
 ## Project structure
 
-![Project structure](http://oi64.tinypic.com/es6fsl.jpg)
+![Project structure](https://github.com/cleankode/ExportAsExcelFile/blob/master/ProjectStructure.PNG)
 
 ## Client Program
 
@@ -82,7 +82,7 @@ class Program
 
 ## Screenshot of sample generated Excel file
 
-![Screenshot of sample generated Excel file.](http://oi66.tinypic.com/2wcqpna.jpg)
+![Screenshot of sample generated Excel file.](https://github.com/cleankode/ExportAsExcelFile/blob/master/SampleExcelFile.PNG)
 
 For the whole source code, you clone and play with it. Since this solution uses [Office Open XML File Formats](https://www.ecma-international.org/publications/standards/Ecma-376.htm), it won't require you to install any driver or work with the *crazy Interop*.
 
